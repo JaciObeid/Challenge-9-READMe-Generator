@@ -26,7 +26,7 @@ const questions = [
 
     {   type:'input',
         message:'What tests are needed for this repository?',
-        name:'test',},
+        name:'tests',},
 
     {   type:'input',
         message:'What is your GitHub Username?',
