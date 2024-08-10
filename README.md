@@ -1,7 +1,7 @@
 # README Generator
   
   ## Description 
-  This repository will generate a README.md with a few simple prompts using node terminal.
+  An application that will create a README.md file with all the inputs after you answer a few simple questions.
 
   ## Table of Contents
   -[Description](#Description)
@@ -13,16 +13,16 @@
   -[License](#License)
 
   ## Installation
-  A copy of this repository is needed on a local computer for it to be run on node.Then open command terminal and run a npm install command. 
+  You will first need to download the repository onto your personal device. Then run an npm i to install the inquirer package and then run a 'node index.js' to start the questions.
  
   ## Usage
-  After an install is done simply run node on the index.js and follow the prompts to generate a README.md file for your repository. This will allow for quicker complition of READMEs and saves people from forgettig to include sectionin their README.md files. 
+  To create a simple README while only need to answer a few questions
 
   ## Contributing
-  None
+  Starting code was used for this repo
 
   ## Tests
-  undefined
+  none
 
   ## Questions
   If you have any questions please contact me [JaciObeid](https://github.com/undefined) or email me at jobeidzinski2@gmail.com
